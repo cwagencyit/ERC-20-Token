@@ -1,4 +1,4 @@
-pragma solidity ^0.7.1;
+pragma solidity ^0.8.26;
 import "./IERC20Token.sol";
 
 contract ERC20Token is IERC20Token
